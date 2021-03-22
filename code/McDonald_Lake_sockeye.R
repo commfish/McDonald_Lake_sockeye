@@ -1,4 +1,6 @@
 # load libraries
+# https://www.middleprofessor.com/files/applied-biostatistics_bookdown/_book/generalized-linear-models-i-count-data.html
+# https://stats.idre.ucla.edu/wp-content/uploads/2020/02/Reg_count.html#(6)
 library(tidyverse)
 library(scales)
 library(ggpubr)
