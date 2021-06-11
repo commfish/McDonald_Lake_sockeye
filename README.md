@@ -1,4 +1,4 @@
-# McDonald Lake sockeye
+# McDonald Lake Sockeye Salmon
 Exploratory work on the calculation of confidence intervals of the escapement estimates (based on peak survey multiplied by the expansion factor).
 Please direct any questions to: Sara Miller (sara.miller@alaska.gov).
 
